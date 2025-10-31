@@ -1,7 +1,4 @@
 
-  # Super Admin Dashboard Design
-
-  This is a code bundle for Super Admin Dashboard Design. The original project is available at https://www.figma.com/design/QGISfo3Dy32ZIo3jkxNZct/Super-Admin-Dashboard-Design.
 
   ## Running the code
 
